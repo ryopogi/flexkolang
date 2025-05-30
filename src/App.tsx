@@ -67,8 +67,8 @@ function App() {
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Mail className="w-6 h-6 text-neon-blue" />
-            <h1 className="text-xl font-bold">Flexmail
-              <div style={{fontSize: "12px"}}>By <a href="https://github.com/sambhavsaxena" target="_blank" className="text-neon-blue hover:underline">Sambhav Saxena</a></div>
+            <h1 className="text-xl font-bold">TEMPMAIL
+              <div style={{fontSize: "12px"}}>By <a href="https://github.com/ryopogi/flexkolang" target="_blank" className="text-neon-blue hover:underline">krisanto kirido</a></div>
             </h1>
           </div>
           <button
